@@ -1,4 +1,5 @@
-<img src="https://drive.google.com/file/d/1BwLJopoXVk_WmkiOxY9aeP2yi2adgrdz/view?usp=sharing" width ="100%">
+![Ujjwal Upadhyay](https://raw.githubusercontent.com/ujjwal-11103/ujjwal-11103/master/github-banner.png)
+
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">, I'm Ujjwal Upadhyay</h1>
 <h3 align="center">A passionate fullstack(MERN) developer</h3>
