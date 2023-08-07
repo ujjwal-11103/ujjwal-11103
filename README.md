@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 💬 Ask me about **Anything Tech**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **ujjwalupadhyay2003@gmail.com**
 
