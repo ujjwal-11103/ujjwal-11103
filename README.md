@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEvkTVRNG8CUg/profile-displaybackgroundimage-shrink_350_1400/0/1671435748080?e=1690416000&v=beta&t=o4rvN-m1u2hV09T8PoO6EGdDScgGG_mi3ej-b285dv8)](https://ujjwal-11103.io)
+<img src="https://drive.google.com/file/d/1BwLJopoXVk_WmkiOxY9aeP2yi2adgrdz/view?usp=sharing" width ="100%">
+
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">, I'm Ujjwal Upadhyay</h1>
 <h3 align="center">A passionate fullstack(MERN) developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
