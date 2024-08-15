@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/72618584/136240367-bbd513b9-ca0a-4fba-985e-8aec33b26f2e.gif" width ="35" alt "#">, I'm Ujjwal Upadhyay</h1>
-<h3 align="center">A fullstack (MERN) developer from Mumbai, India</h3>
+<h3 align="center">A fullstack web developer from Mumbai, India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-11103&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-11103" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ujjwal_11103" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwal_11103?logo=twitter&style=for-the-badge" alt="ujjwal_11103" /></a> </p>
 
-- 🌱 I’m currently learning **Node.Js**
+
+- 🌱 I’m currently learning **NEXT.Js**
 
 - 💬 Ask me about **MERN STACK**
 
@@ -43,8 +43,8 @@
 </p>
 
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-11103" alt="ujjwal-11103" /></p>
+<h3>Hactoberfest Acheivement:</h3>
 
 [![An image of @ujjwal11103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjwal11103)](https://holopin.io/@ujjwal11103)
 
